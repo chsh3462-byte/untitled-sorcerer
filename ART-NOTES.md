@@ -17,3 +17,9 @@
 보정 요청: “Preserve all character identities and exact ordering. Shrink each sprite within its cell with transparent gutters; no neighboring sprites should overlap. Convert to genuine detailed 128-pixel-scale art with conspicuous square clusters, limited deliberate color shading and no antialiasing. Preserve full bodies and weapons.”
 
 게임용 아틀라스는 칸당 176×192이며 캐릭터 최대 영역은 160×176입니다. 전투 모션은 기존 이동·피격·집중 연출을 유지하며 프레임별 신체 애니메이션을 새로 만든 것은 아닙니다.
+
+## v2.6 · 옥견 계승과 신규 술식·주령
+
+내장 이미지 생성 도구로 투명 배경 4×4 전신 픽셀 시트를 새로 그린 뒤 셀별 가장자리를 검수하고 176×192 스프라이트로 가공했습니다. 흑 생존 혼과 백 생존형을 구분합니다. 백 생존형의 외형은 게임 해석이며, 우로의 하늘 의상도 게임용 각색입니다. 외부 이미지를 게임 파일에 복제하지 않았습니다.
+
+제작 지시 요약: 어두운 전장에 읽히는 제한 팔레트, 16개 전신, 별도 투명 셀, 각 인물의 복장·무기와 각 생물의 실루엣을 구분. 백·흑 옥견과 두 계승형, 히구루마·천사·우로·이시고리·메이메이·메카마루, 주령 나오야·메뚜기 주령·에소·케치즈·가네샤형·홍룡.
